@@ -7,3 +7,24 @@
 07. Coin Change 2
 08. Power of Two
 09. Is Subsequence
+10. Search Insert Position
+11. Sort Colors
+12. Insert Delete GetRandom O(1)
+13. Largest Divisible Subset
+14. Cheapest Flights Within K Stops
+15. Search in a Binary Search Tree
+16. Validate IP Address
+17. Surrounded Regions
+18. H-Index II
+19. Longest Duplicate Substring
+20. Permutation Sequence
+21. Dungeon Game
+22. Single Number II
+23. Count Complete Tree Nodes
+24. Unique Binary Search Trees
+25. Find the Duplicate Number
+26. Sum Root to Leaf Numbers
+27. Perfect Squares
+28. Reconstruct Itinerary
+29. Unique Paths
+30. Word Search II
